@@ -8,11 +8,11 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Ivan</h1>
         <p className={styles.description}>
-          I'm a Full Stack Developer with 5 years of experience using React and NodeJS.
-          I'm a Full Stack Developer mainly working with React and .NET 
-          I'm a Backend Developer specializing in C# and expanding my skills in React for full-stack development.
-          Reach out if you'd like to learn more
+          I'm a Full Stack Developer working with .NET on the backend while continuously perfecting my skills in React.
           </p>
+          <p className={styles.description}>
+            Reach out if you'd like to learn more
+            </p>
           <a href="mailto:ivan.andrau@gmail.com" className={styles.contactBtn}>Contact Me</a>
       </div>
       <img src={profileImage} alt="Hero image of me" className={styles.heroImg}/>
