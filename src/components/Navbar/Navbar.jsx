@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        Portfolio
+        Ivan Andrau
       </a>
       <div className={styles.menu}>
         <img

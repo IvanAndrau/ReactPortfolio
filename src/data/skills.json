@@ -8,23 +8,31 @@
     "imageSrc": "../../../assets/skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "../../../assets/skills/javaScript.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "../../../assets/skills/typeScript.png"
+  },
+  {
     "title": "React",
     "imageSrc": "../../../assets/skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "../../../assets/skills/node.png"
-  },
-  {
-    "title": "GraphQL",
-    "imageSrc": "../../../assets/skills/graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "../../../assets/skills/mongodb.png"
-  },
-  {
     "title": "Figma",
     "imageSrc": "../../../assets/skills/figma.png"
+  },
+  {
+    "title": "CSharp",
+    "imageSrc": "../../../assets/skills/csharp.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "../../../assets/skills/Java.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "../../../assets/skills/postgreSQL.png"
   }
 ]

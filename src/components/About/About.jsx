@@ -37,8 +37,8 @@ const About = () => {
         <li className={styles.aboutItem}>
           <img src={uiIcon} alt="UI icon" />
           <div className={styles.aboutItemText}>
-            <h3>UI Designer</h3>
-            <p>I have designed multiple landing pages and have created design systems as well</p>
+            <h3>Database Engineer</h3>
+            <p>I have Experience working with SQL Server, MySQL and PostreSQL, designing efficient database schemas</p>
           </div>
         </li>
 
