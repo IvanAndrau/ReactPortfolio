@@ -11,7 +11,7 @@
     "title": "Task Manager",
     "imageSrc": "../../../assets/projects/project.png",
     "description": "This is a backend API designed to efficiently manage tasks with support for task groups.",
-    "skills": [".NET", "MySQL"],
+    "skills": [".NET", "PostgreSQL"],
     "demo": "https://github.com/IvanAndrau/TaskManager",
     "source": "https://github.com/IvanAndrau/TaskManager"
   },
