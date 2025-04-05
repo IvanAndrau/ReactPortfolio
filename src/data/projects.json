@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Job Application Tracker",
     "imageSrc": "../../../assets/projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to help users manage their job applications on a canban board.",
+    "skills": [".NET", "SQL Server"],
+    "demo": "https://github.com/eric-muganga/jobApplicationTrackerApi",
+    "source": "https://github.com/eric-muganga/jobApplicationTrackerApi"
   },
   {
-    "title": "Project B",
+    "title": "Task Manager",
     "imageSrc": "../../../assets/projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a backend API designed to efficiently manage tasks with support for task groups.",
+    "skills": [".NET", "MySQL"],
+    "demo": "https://github.com/IvanAndrau/TaskManager",
+    "source": "https://github.com/IvanAndrau/TaskManager"
   },
   {
-    "title": "Project C",
+    "title": "Resource Manager",
     "imageSrc": "../../../assets/projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Resource management system to store credentials for different services.",
+    "skills": ["Java", "Spring Boot", "MySQL"],
+    "demo": "https://github.com/IvanAndrau/ResourceManager/tree/master",
+    "source": "https://github.com/IvanAndrau/ResourceManager/tree/master"
   }
 ]

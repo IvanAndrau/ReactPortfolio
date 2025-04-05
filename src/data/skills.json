@@ -1,38 +1,80 @@
 [
   {
+    "group": "Frontend",
     "title": "HTML",
     "imageSrc": "../../../assets/skills/html.png"
   },
   {
+    "group": "Frontend",
     "title": "CSS",
     "imageSrc": "../../../assets/skills/css.png"
   },
   {
+    "group": "Frontend",
+    "title": "React",
+    "imageSrc": "../../../assets/skills/react.png"
+  },
+
+  {
+    "group": "Backend",
+    "title": "Spring Framework",
+    "imageSrc": "../../../assets/skills/spring.png"
+  },
+  {
+    "group": "Backend",
+    "title": "Spring Boot",
+    "imageSrc": "../../../assets/skills/springBoot.png"
+  },
+  {
+    "group": "Backend",
+    "title": "ASP .NET Core",
+    "imageSrc": "../../../assets/skills/netFramework.png"
+  },
+
+  {
+    "group": "Languages",
     "title": "JavaScript",
     "imageSrc": "../../../assets/skills/javaScript.png"
   },
   {
+    "group": "Languages",
     "title": "TypeScript",
     "imageSrc": "../../../assets/skills/typeScript.png"
   },
   {
-    "title": "React",
-    "imageSrc": "../../../assets/skills/react.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "../../../assets/skills/figma.png"
-  },
-  {
+    "group": "Languages",
     "title": "CSharp",
     "imageSrc": "../../../assets/skills/csharp.png"
   },
   {
+    "group": "Languages",
     "title": "Java",
     "imageSrc": "../../../assets/skills/Java.png"
   },
+
   {
+    "group": "Tools&Databases",
     "title": "PostgreSQL",
     "imageSrc": "../../../assets/skills/postgreSQL.png"
+  },
+  {
+    "group": "Tools&Databases",
+    "title": "SQL Server",
+    "imageSrc": "../../../assets/skills/sqlServer.png"
+  },
+  {
+    "group": "Tools&Databases",
+    "title": "MySQL",
+    "imageSrc": "../../../assets/skills/mySql.png"
+  },
+  {
+    "group": "Tools&Databases",
+    "title": "Figma",
+    "imageSrc": "../../../assets/skills/figma.png"
+  },
+  {
+    "group": "Tools&Databases",
+    "title": "Git",
+    "imageSrc": "../../../assets/skills/git.png"
   }
 ]

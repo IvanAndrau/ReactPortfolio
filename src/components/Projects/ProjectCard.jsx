@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './ProjectCard.module.css'
 const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source }
+  project: { title, imageSrc, description, skills, source } //,demo
 }) => {
   return (
   <div className={styles.container}>
@@ -14,10 +14,10 @@ const ProjectCard = ({
       })}
     </ul>
     <div className={styles.links}>
-      <a href={demo} 
+      {/* <a href={demo} 
         target="_blank" 
         rel="noopener noreferrer"
-        className={styles.link}>Demo</a>
+        className={styles.link}>Demo</a> */}
         <a href={source} 
         target="_blank" 
         rel="noopener noreferrer"
