@@ -1,7 +1,7 @@
 [
   {
     "title": "Job Application Tracker",
-    "imageSrc": "../../../assets/projects/project.png",
+    "imageSrc": "/assets/projects/project.png",
     "description": "This is a project made to help users manage their job applications on a canban board.",
     "skills": [".NET", "SQL Server"],
     "demo": "https://github.com/eric-muganga/jobApplicationTrackerApi",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Task Manager",
-    "imageSrc": "../../../assets/projects/project.png",
+    "imageSrc": "/assets/projects/project.png",
     "description": "This is a backend API designed to efficiently manage tasks with support for task groups.",
     "skills": [".NET", "PostgreSQL"],
     "demo": "https://github.com/IvanAndrau/TaskManager",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Resource Manager",
-    "imageSrc": "../../../assets/projects/project.png",
+    "imageSrc": "/assets/projects/project.png",
     "description": "Resource management system to store credentials for different services.",
     "skills": ["Java", "Spring Boot", "MySQL"],
     "demo": "https://github.com/IvanAndrau/ResourceManager/tree/master",

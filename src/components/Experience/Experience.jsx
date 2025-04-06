@@ -11,7 +11,7 @@ const skillGroups = {
 
 const Experience = () => {
   return (
-    <section className={styles.container} id="experience">
+    <section className={styles.container} id="toolbox">
       <h2 className={styles.title}>My Toolbox</h2>
       <div className={styles.content}>
         {Object.entries(skillGroups).map(([cardTitle, groupKey]) => {
